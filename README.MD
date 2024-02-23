@@ -12,6 +12,7 @@
 
 -------
 
+
 # Projeto artigo técnico gerado por I.A.s
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me).
@@ -29,6 +30,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 📄 Prompts e ferramentas
 
 
+
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
@@ -40,6 +42,7 @@ ChatGPT：
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+
 
 • Angular
 
