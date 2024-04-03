@@ -37,9 +37,8 @@ ChatGPT：
 |   Ação   | prompt - [REGRAS: No máximo 5 linhas por bloco de explicação. Explique de uma maneira informal e humana como se eu tivesse 15 anos. Os blocos que serão criados estão abaixo: 1 - Breve introdução e apresentação; 2 - O Que é HTML e Como Funciona; 3 - Estrutura Básica de uma Página HTML; 4 - Tags e Elementos Fundamentais em HTML; 5 - Links, Imagens e Outros Elementos Interativos; 6 - Dicas e Recursos para Aprender HTML; 7 - Conclusão do artigo.]                                                                                       |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Primeiros Passos: Fundamentos Essenciais para iniciantes em HTML   
-             |
-| conteúdo | Artigo sobre primeiros passos com uma linguagem de marcação, com foco em HTML, listando os fundamentos do HTML com exemplos em código. 
-             |
+              |
+| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Lexica.art：
