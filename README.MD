@@ -81,5 +81,5 @@ Lexica.art：
 
 ---
 
-⌨️ com 💗 por [Paula Alessandra](https://github.com/paulaalessandrars)
+⌨️ com 💗☕ por [Paula Alessandra](https://github.com/paulaalessandrars)
 
