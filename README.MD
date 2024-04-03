@@ -38,7 +38,8 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Primeiros Passos: Fundamentos Essenciais para iniciantes em HTML   
              |
-| conteúdo | Artigo sobre primeiros passos com uma linguagem de marcação, com foco em HTML, listando os fundamentos do HTML com exemplos em código. |
+| conteúdo | Artigo sobre primeiros passos com uma linguagem de marcação, com foco em HTML, listando os fundamentos do HTML com exemplos em código. 
+             |
 
 
 Lexica.art：
