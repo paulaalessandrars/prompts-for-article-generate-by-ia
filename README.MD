@@ -36,7 +36,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
+|  título  | Primeiros Passos: Fundamentos Essenciais para iniciantes em HTML                                                                                                                                                                                                    |
 | conteúdo | Artigo sobre primeiros passos com uma linguagem de marcação, com foco em HTML, listando os fundamentos do HTML com exemplos em código. |
 
 
