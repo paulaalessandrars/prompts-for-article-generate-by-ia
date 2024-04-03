@@ -64,7 +64,7 @@ Lexica.art：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/126213743?s=400&u=a86b7d3d557370f4ade95c40dcefac76585a3e0a&v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
@@ -82,5 +82,5 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 🩷 por [Paula Alessandra](https://github.com/paulaalessandrars)
+⌨️ com 💗 por [Paula Alessandra](https://github.com/paulaalessandrars)
 
